@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: zero-spel-boot
+    web:
+        resources:
+            static-locations: classpath:/static/
+server:
+    name: aaa,bbb,ccc
